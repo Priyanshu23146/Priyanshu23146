@@ -4,7 +4,7 @@
 
 
 <!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/neon_header.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Priyanshu23146/Priyanshu23146/main/assets/neon_header.gif" width="100%" />
 </p> -->
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=900&duration=7000&color=FF6FC1&center=true&vCenter=true&width=1550&lines=Turning+Ideas+Into+Beautiful+Web+Experiences+%F0%9F%92%AB;Where+Creativity+Meets+Clean+Code+%E2%9C%A8;From+Logic+to+UI+%E2%80%94+I+Build+It+All+%F0%9F%92%BB" /></p>
@@ -12,9 +12,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu705597&color=0AFFEE&style=for-the-badge&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/Priyanshu705597?style=for-the-badge&logo=github&color=FF00FF&labelColor=000" />
-  <img src="https://img.shields.io/github/stars/Priyanshu705597?style=for-the-badge&logo=github&color=00E7FF&labelColor=000" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu23146&color=0AFFEE&style=for-the-badge&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/Priyanshu23146?style=for-the-badge&logo=github&color=FF00FF&labelColor=000" />
+  <img src="https://img.shields.io/github/stars/Priyanshu23146?style=for-the-badge&logo=github&color=00E7FF&labelColor=000" />
 </p> -->
 
 
@@ -55,9 +55,9 @@
 };
 ```
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyanshu705597&color=0AFFEE&style=for-the-badge&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/Priyanshu705597?style=for-the-badge&logo=github&color=FF00FF&labelColor=000" />
-  <img src="https://img.shields.io/github/stars/Priyanshu705597?style=for-the-badge&logo=github&color=00E7FF&labelColor=000" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu23146&color=0AFFEE&style=for-the-badge&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/Priyanshu23146?style=for-the-badge&logo=github&color=FF00FF&labelColor=000" />
+  <img src="https://img.shields.io/github/stars/Priyanshu23146?style=for-the-badge&logo=github&color=00E7FF&labelColor=000" />
 
 </div>
 
@@ -101,9 +101,9 @@
 ### 🌌 **Portfolio Website**
 💻 *React • Next.js • Neon Tailwind*
 
-<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_portfolio.gif" width="100%" style="border-radius: 14px;" />
+<img src="https://raw.githubusercontent.com/Priyanshu23146/Priyanshu23146/main/assets/demo_portfolio.gif" width="100%" style="border-radius: 14px;" />
 
-🔗 **[View Repo](https://github.com/Priyanshu705597/portfolio)**  
+🔗 **[View Repo](https://github.com/Priyanshu23146/portfolio)**  
 ✨ *A modern neon-themed portfolio with animated UI.*
 
 </div>
@@ -116,9 +116,9 @@
 ### 🛰 **ChatNow**
 💬 *Node • Express • Socket.io*
 
-<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/demo_chat.gif" width="100%" style="border-radius: 14px;" />
+<img src="https://raw.githubusercontent.com/Priyanshu23146/Priyanshu23146/main/assets/demo_chat.gif" width="100%" style="border-radius: 14px;" />
 
-🔗 **[View Repo](https://github.com/Priyanshu705597/chatnow)**  
+🔗 **[View Repo](https://github.com/Priyanshu23146/chatnow)**  
 ⚡ *Real-time chat app with glowing UI.*
 
 </div>
@@ -134,9 +134,9 @@
 ### 💠 **DSA Library**
 📘 *C++ • Algorithms*
 
-<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/screenshot_dsa.png" width="100%" style="border-radius: 14px;" />
+<img src="https://raw.githubusercontent.com/Priyanshu23146/Priyanshu23146/main/assets/screenshot_dsa.png" width="100%" style="border-radius: 14px;" />
 
-🔗 **[View Repo](https://github.com/Priyanshu705597/dsa-library)**  
+🔗 **[View Repo](https://github.com/Priyanshu23146/dsa-library)**  
 🧠 *Clean, optimized DSA solutions.*
 
 </div>
@@ -149,9 +149,9 @@
 ### ⚡ **MERN Todo App**
 🗂 *Auth • CRUD • MERN*
 
-<img src="https://raw.githubusercontent.com/Priyanshu705597/Priyanshu705597/main/assets/project_glow.gif" width="100%" style="border-radius: 14px;" />
+<img src="https://raw.githubusercontent.com/Priyanshu23146/Priyanshu23146/main/assets/project_glow.gif" width="100%" style="border-radius: 14px;" />
 
-🔗 **[View Repo](https://github.com/Priyanshu705597/mern-todo)**  
+🔗 **[View Repo](https://github.com/Priyanshu23146/mern-todo)**  
 💾 *Full-stack glowing CRUD app.*
 
 </div>
@@ -168,7 +168,7 @@
 <!--## 🐍 **Dark Neon Activity Snake**
 
 ```md
-![snake gif](https://github.com/Priyanshu705597/Priyanshu705597/blob/output/dist/snake.svg)
+![snake gif](https://github.com/Priyanshu23146/Priyanshu23146/blob/output/dist/snake.svg)
 ```-->
 
 
@@ -177,29 +177,29 @@
 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu705597&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu23146&theme=tokyonight" />
 </p>
 <p align="center">
   <!-- Productive time card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu705597&theme=radical&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu23146&theme=radical&utcOffset=5.5" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Priyanshu705597&theme=react&background=000000" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Priyanshu23146&theme=react&background=000000" />
 </p>
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu705597&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu23146&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu705597&theme=tokyo-night&hide_border=true&area=true&color=FF00FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu23146&theme=tokyo-night&hide_border=true&area=true&color=FF00FF" />
 </p>
   ## 🤝  CONNECT WIT ME 
 
  <table  align="center" >
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Priyanshu705597">
+      <a href="https://github.com/Priyanshu23146">
         <img src="https://img.icons8.com/clouds/100/000000/github.png" width="80"/>
       </a>
     </td>
