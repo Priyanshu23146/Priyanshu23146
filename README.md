@@ -188,9 +188,11 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu23146&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+</p> -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Priyanshu23146&layout=compact&theme=tokyonight" />
+
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu23146&theme=tokyo-night&hide_border=true&area=true&color=FF00FF" />
