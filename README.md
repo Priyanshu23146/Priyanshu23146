@@ -213,7 +213,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="">
+      <a href="www.linkedin.com/in/priyanshu-23146-kumar">
         <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="80"/>
       </a>
     </td>
