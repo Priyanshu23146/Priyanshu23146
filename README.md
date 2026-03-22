@@ -203,7 +203,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu23146&theme=tokyo-night&hide_border=true&area=true&color=FF00FF" />
 </p>
 
-  ### 🤝  CONNECT WIT ME 
+  ### 🤝  CONNECT WITH ME 
 
  <table  align="center" >
   <tr>
